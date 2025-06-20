@@ -1,0 +1,11 @@
+{
+    "name": "Pixe42",
+    "description": "This is my first NFT!",
+    "image": "ipfs://bafybeicdac3ga2xtmajmtfwgbclqjoj5n7ghgh5bg676x5mgomrfskckjy",
+    "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "amentag"
+        }
+    ]
+}
